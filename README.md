@@ -18,7 +18,6 @@ I am interested in learning Cybersecurity and working on it.
 - 🌱 I’m currently learning Ethical Hacking (PenTesting)
 - ⚡ Fun fact: I'm never bored about learning
 - 🎢 Profile Visitors Count:  
-<br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=salvadorJMA.visitor-badge)
 
 <br/>
