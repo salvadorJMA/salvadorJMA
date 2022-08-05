@@ -114,9 +114,7 @@ Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e
 &theme=tokyonight" />
 </a>
 
-<a href="https://github.com/salvadorJMA/proyect-of-videoconference-room-with-JAVA-EE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salvadorJMA&repo=proyect-of-videoconference-room-with-JAVA-EE&theme=tokyonight" />
-</a>
+
 
 
 <br/>
