@@ -14,9 +14,9 @@ I am interested in learning Cybersecurity and working on it.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying a Cybersecurity's Master
+- 🔭 I’m currently studying a Cybersecurity Master
 - 🌱 I’m currently learning Ethical Hacking (PenTesting)
-- ⚡ Fun fact: I'm never bored about learning
+- ⚡ Fun fact: I like to laugh at everything, also at myself
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=salvadorJMA.visitor-badge)
 
