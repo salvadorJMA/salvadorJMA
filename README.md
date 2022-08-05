@@ -45,6 +45,10 @@ Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e
 <code><img height="25" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/jimaek/bashlogo.com/master/src/img/logo.png"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="22" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Z_Shell_Logo_Color_Horizontal.svg"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png"></code>
 </details>
 
 
