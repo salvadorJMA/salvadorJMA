@@ -102,6 +102,7 @@ Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e
 <br/>
 <br/>
 
+---
 
 ### My Projects <img src = "https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width = 25px>:
 
