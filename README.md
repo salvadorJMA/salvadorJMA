@@ -10,7 +10,7 @@ My name is Salvador. Thank You for taking the time to view my GitHub Profile ðŸ˜
 
 I am a computer engineer specialized in cybersecurity who loves to learn something new every day. <br/>
 I am hardworking, organized and cooperative.<br/>
-I am interested in learning new technologies and tecniques.
+I am interested in learning new technologies and techniques.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
