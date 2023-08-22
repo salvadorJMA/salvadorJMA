@@ -8,13 +8,13 @@ My name is Salvador. Thank You for taking the time to view my GitHub Profile �
 
 <br/>
 
-I am a computer engineer who loves to learn something new every day. <br/>
+I am a computer engineer specialized in cybersecurity who loves to learn something new every day. <br/>
 I am hardworking, organized and cooperative.<br/>
-I am interested in learning Cybersecurity and working on it.
+I am interested in learning new technologies and tecniques.
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying a Cybersecurity Master
+- 🔭 I’m currently working as cybersecurity consultant at KPMG
 - 🌱 I’m currently learning Ethical Hacking (PenTesting)
 - ⚡ Fun fact: I like to laugh at everything, also at myself
 - 🎢 Profile Visitors Count:  
